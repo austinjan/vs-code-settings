@@ -1,0 +1,38 @@
+{
+  "editor.fontFamily": "Fira Code",
+  "editor.fontSize": 18,
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "breadcrumbs.enabled": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "eslint.autoFixOnSave": true,
+  "files.eol": "\n",
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "xml": {
+      "attr_quotes": "single"
+    }
+  },
+  "go.autocompleteUnimportedPackages": true,
+  "go.formatTool": "gofmt",
+  "go.buildOnSave": "package",
+  "go.inferGopath": true,
+  "go.gotoSymbol.includeImports": true,
+  "go.gopath": "/Users/janaustin/go",
+  "prettier.eslintIntegration": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "window.zoomLevel": -1,
+  "workbench.colorTheme": "One Dark+ (Sublime)",
+  "C_Cpp.updateChannel": "Insiders",
+  "typescript.validate.enable": false,
+  "files.associations": {
+    "*.jsx": "javascript"
+  },
+  "typescript.suggest.completeFunctionCalls": true,
+  "javascript.validate.enable": false,
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+  "eslint.packageManager": "yarn",
+  "editor.snippetSuggestions": "top"
+}
